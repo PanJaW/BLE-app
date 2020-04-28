@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">inzynierka_longboard</string>
+    <string name="ble_not_supported">ble not supported</string>
+    <string name="mac_bluetooth_adapter">00:15:84:32:52:87</string>
+    <string name="logo">Logo WE</string>
+    <string name="pwm">PWM</string>
+</resources>
